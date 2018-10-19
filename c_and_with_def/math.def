@@ -1,0 +1,6 @@
+LIBRARY math.dll
+EXPORTS
+    MyAdd
+    MySub
+    MyMul
+
