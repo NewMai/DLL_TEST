@@ -1,0 +1,4 @@
+LIBRARY GetHighAccuracyTime.dll
+EXPORTS
+    GetHighAccuracyTime_x64
+

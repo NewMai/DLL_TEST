@@ -1,0 +1,3 @@
+LIBRARY get_random.dll
+EXPORTS
+	get_rand_data
